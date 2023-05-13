@@ -1,0 +1,1 @@
+[Becoming friends with NetworkManager | Enable Sysadmin (redhat.com)](https://www.redhat.com/sysadmin/becoming-friends-networkmanager)

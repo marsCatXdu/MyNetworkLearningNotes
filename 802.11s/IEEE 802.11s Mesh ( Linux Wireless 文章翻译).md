@@ -1,6 +1,6 @@
 # IEEE 802.11s Mesh ( Linux Wireless 文章翻译 )
 
-> 原文链接：[en:developers:documentation:ieee80211:802.11s [Linux Wireless\] (kernel.org)](https://wireless.wiki.kernel.org/en/developers/documentation/ieee80211/802.11s)
+> 原文链接：[802.11s Linux Wireless (kernel.org)](https://wireless.wiki.kernel.org/en/developers/documentation/ieee80211/802.11s)
 
 ## 简介
 
