@@ -37,3 +37,36 @@ Kernel wireless driver support matrix: https://wireless.wiki.kernel.org/en/users
 [Driver Backports Wiki (kernel.org)](https://backports.wiki.kernel.org/index.php/Main_Page)
 
 [wireless/wifi/mesh – Gateworks](http://trac.gateworks.com/wiki/wireless/wifi/mesh) (Bring up mesh interface using wpa_supplicant)
+
+
+
+
+
+![image-20230526163343314](Experiment references.assets/image-20230526163343314.png)
+
+iptables, implement nat: [Configure Linux as a Router (IP Forwarding) | Linode Docs](https://www.linode.com/docs/guides/linux-router-and-ip-forwarding/#enable-ip-forwarding)
+
+![image-20230526174544633](Experiment references.assets/image-20230526174544633.png)
+
+when finish these, everything just goes well.
+
+
+
+![image-20230526174627659](Experiment references.assets/image-20230526174627659.png)
+
+
+
+
+
+![image-20230526174658939](Experiment references.assets/image-20230526174658939.png)
+
+
+
+
+
+
+
+steps:
+
+1. Setup mesh point interfaces
+2. Setup mesh 

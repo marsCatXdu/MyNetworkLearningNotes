@@ -1,0 +1,1 @@
+[Configure Linux as a Router (IP Forwarding) | Linode Docs](https://www.linode.com/docs/guides/linux-router-and-ip-forwarding/#enable-ip-forwarding)
